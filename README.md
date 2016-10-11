@@ -1,0 +1,2 @@
+# Digital Hourglass
+Project from the Arduino project book. Uses a tilt sensor to operate a series of LEDs as an hourglass. Made my own small modification that makes the LEDs blink an eye-catching pattern when the time is up.
